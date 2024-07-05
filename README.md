@@ -1,6 +1,6 @@
 First, using "CEEMDAN.py", the decomposed components are obtained.
 
-Then, use "CICLA.py" to predict each IMF component processed by CEEMDAN, which also obtains the hyperparameters of the model.
+Then, use "ICLA.py" to predict each IMF component processed by CEEMDAN, which also obtains the hyperparameters of the model.
 
 Finally, the results for each IMF are nonlinearly summed using "RF.py".
 
